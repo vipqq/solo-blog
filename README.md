@@ -10,7 +10,7 @@ vipqq 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://wbessy.com:8083/solo-v3.6.6/hello-solo)
+* [世界，你好！](http://wbessy.com/hello-solo)
 
 
 
