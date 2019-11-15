@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [诗与酒](http://wbessy.com:8083/solo-v3.6.6/articles/2019/11/14/1573704698913.html)
+* [诗与酒](http://wbessy.com/articles/2019/11/14/1573704698913.html)
 
 
 
