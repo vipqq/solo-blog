@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [与众不同的金街](https://wbessy.com/articles/2019/11/17/1573922308659.html)
-* [诗与酒](https://wbessy.com/articles/2019/11/14/1573704698913.html)
+* [与众不同的金街](https://wbessy.com/solo-v3.6.6/articles/2019/11/17/1573922308659.html)
+* [诗与酒](https://wbessy.com/solo-v3.6.6/articles/2019/11/14/1573704698913.html)
 
 
 
